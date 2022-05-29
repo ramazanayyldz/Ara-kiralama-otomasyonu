@@ -22,6 +22,8 @@ namespace Araç_kiralama_otomasyonu
             komut.ExecuteNonQuery();
             baglanti.Close();
 
+
+            //test
         }
         public DataTable listele(SqlDataAdapter adtr, string sorgu)
         {
