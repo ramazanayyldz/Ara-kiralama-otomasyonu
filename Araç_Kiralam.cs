@@ -23,7 +23,7 @@ namespace Araç_kiralama_otomasyonu
             baglanti.Close();
 
 
-            //test
+            //test2
         }
         public DataTable listele(SqlDataAdapter adtr, string sorgu)
         {
